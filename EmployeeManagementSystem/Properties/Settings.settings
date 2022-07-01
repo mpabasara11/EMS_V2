@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmployeeManagementSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Connection_String" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=15S-DU3039TX;Initial Catalog=lmsV2;Integrated Security=True; MultipleActiveResultSets=True;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=15S-DU3039TX;Initial Catalog=lmsV2;Integrated Security=True; MultipleActiveResultSets=True;</Value>
+    </Setting>
+    <Setting Name="casual_leaves" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="mediacal_leave" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="AdminUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="AdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pass</Value>
+    </Setting>
+    <Setting Name="FMLA" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">84</Value>
+    </Setting>
+    <Setting Name="ResignationTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CompanyMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">myFlightzonetest123@gmail.com</Value>
+    </Setting>
+    <Setting Name="CompanyMobile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0711111111</Value>
+    </Setting>
+    <Setting Name="mailCredUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mpabasara11@gmail.com</Value>
+    </Setting>
+    <Setting Name="mailCredPaswd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ulqgmqvtdupxqaxe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddpayslips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAuthoriseleave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBasicSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmempleavemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInstructionManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKeepAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmleavemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLeaverequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLeavestatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmmanagepayslip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmmanagesurvey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMyPaySlip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSurvayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSurvey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTalkToHrp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTalkToHrp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmResignations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HrDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Managerdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,638 @@
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.adduser.resources
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.deleteuser.resources
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.resetpassword.resources
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.updateuser.resources
+G:\Study Materials\HND\final project\UI\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmDashboard.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\Tharusha\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmFixedAssest.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmDashboard.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmFixedAssest.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Downloads\tharusha gave one\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmDashboard.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmFixedAssest.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmDashboard.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmFixedAssest.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmDashboard.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmFixedAssest.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashbord.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrRequestLeave.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrMyLeaveStatus.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrAuthorize_Leave.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrAddPaySlip.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrMyPaySlip.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrScheduleTraining.resources
+C:\Users\ASUS\Downloads\Campus\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrInitiatedTraining.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmDashboard.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmFixedAssest.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrAddPaySlip.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrAuthorize_Leave.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrInitiatedTraining.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrMyLeaveStatus.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrMyPaySlip.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrRequestLeave.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmHrScheduleTraining.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashbord.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Desktop\p\gave praveen for ui changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Form1.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaveManagement.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Form1.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Desktop\p\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Form1.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagepayslip.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmattendance.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaverequest.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmtrainingmanagement.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmvacancymanagement.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmleavemanagement.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmempleavemanagement.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmemptraining.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Managerdashboard.resources
+H:\final project\giving praveen after amalshas changes 2\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagesurvey.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmattendance.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmempleavemanagement.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmemptraining.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmleavemanagement.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaverequest.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagepayslip.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagesurvey.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmtrainingmanagement.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmvacancymanagement.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Managerdashboard.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Form1.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmattendance.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmempleavemanagement.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmemptraining.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmleavemanagement.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaverequest.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagepayslip.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagesurvey.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmtrainingmanagement.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmvacancymanagement.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Managerdashboard.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Form1.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\Tharusha\Desktop\ongoing\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmSurvey.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll.config
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Autofac.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\itextsharp.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Telegram.Bot.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Controllers.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Core.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Credentials.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Factories.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Logic.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Security.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Streams.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.WebLogic.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.SuggestedBindingRedirects.cache
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll.config
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmAddpayslips.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmAuthoriseleave.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmBasicSettings.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmempleavemanagement.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmKeepAttendance.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmleavemanagement.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaverequest.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeavestatus.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagepayslip.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagesurvey.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmReports.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmResignations.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmSurvey.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHr.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHrContactHr.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmtrainingmanagement.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Managerdashboard.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+G:\final\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll.config
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Autofac.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Telegram.Bot.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Controllers.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Core.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Credentials.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Factories.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Logic.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Security.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Streams.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.WebLogic.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll.config
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmAddpayslips.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmAuthoriseleave.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmBasicSettings.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmempleavemanagement.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmKeepAttendance.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmleavemanagement.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaverequest.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeavestatus.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagepayslip.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagesurvey.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmReports.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmResignations.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmSurvey.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Managerdashboard.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHrp1.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHrp2.resources
+C:\Users\mpaba\Desktop\New folder\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmInstructionManagement.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll.config
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Autofac.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Telegram.Bot.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Controllers.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Core.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Credentials.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Factories.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Logic.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Security.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.Streams.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.WebLogic.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\Tweetinvi.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll.config
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminDashboard.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeDashboard.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmAddpayslips.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmAuthoriseleave.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmBasicSettings.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmempleavemanagement.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmHome.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmInstructionManagement.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmKeepAttendance.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmleavemanagement.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeaverequest.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.FrmLeavestatus.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagepayslip.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmmanagesurvey.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmMyPaySlip.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmReports.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmResignations.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmSurvayForm.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmSurvey.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHrp1.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.frmTalkToHrp2.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.HrDashboard.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Managerdashboard.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\mpaba\Desktop\ongo\ongoing\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
